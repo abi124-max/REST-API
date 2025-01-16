@@ -43,7 +43,7 @@ public class RestConsumer {
     }
 }
 # output
-
+![Image](https://github.com/user-attachments/assets/9beaf9a0-70a4-4c5e-a8c2-10f81e03514a)
 
 
 
